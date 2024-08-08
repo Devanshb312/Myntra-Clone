@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Myntra (Clone)
 
@@ -46,3 +47,6 @@ All the image and icon links have been taken from the main website ( https://www
 
 
   
+=======
+# Myntra-Clone
+>>>>>>> b1dd7519645c5ae20448ac110dc9792bcb750fe4
